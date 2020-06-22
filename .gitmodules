@@ -1,0 +1,3 @@
+[submodule "AutoTrimps"]
+	path = AutoTrimps
+	url = https://github.com/Alfik0/AutoTrimps.git
